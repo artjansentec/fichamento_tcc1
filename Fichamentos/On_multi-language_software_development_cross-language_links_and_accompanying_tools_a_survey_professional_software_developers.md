@@ -1,6 +1,5 @@
 ## On multi-language software development, cross-language links and accompanying tools: a survey of professional software developers
 
---
 
 ## Fichamento de conteúdo
 

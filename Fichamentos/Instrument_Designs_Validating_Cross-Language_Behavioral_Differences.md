@@ -1,6 +1,5 @@
 # Instrument Designs for Validating Cross-Language Behavioral Differences
 
---
 
 ## Fichamento de conteúdo
 

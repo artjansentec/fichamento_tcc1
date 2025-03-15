@@ -1,6 +1,5 @@
 # Suggesting Natural Method Names to Check Name Consistencies
 
---
 	
 ## Fichamento de conteúdo
 

@@ -1,6 +1,5 @@
 # Six Learning Barriers in End-User Programming Systems
 
---
 
 ## Fichamento de conteúdo
 

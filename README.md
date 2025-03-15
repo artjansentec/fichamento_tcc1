@@ -4,7 +4,6 @@
 
 **16 de fevereiro de 2025**  
 
----
 
 ## Introdução  
 

@@ -1,6 +1,5 @@
 # Here We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language
 
---
 
 ## Fichamento de conteúdo
 
