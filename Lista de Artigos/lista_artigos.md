@@ -1,24 +1,24 @@
 ## Lista de Artigos
 
-51)N. Shrestha, C. Botta, T. Barik and C. Parnin, "Here We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language?," 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE), Seoul, Korea (South), 2020, pp. 691-701.
-https://ieeexplore.ieee.org/document/9284077
+** 51)N. Shrestha, C. Botta, T. Barik and C. Parnin, "Here We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language?," 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE), Seoul, Korea (South), 2020, pp. 691-701.
+https://ieeexplore.ieee.org/document/9284077**
 
-P. Mayer, M. Kirsch and M. A. Le, "On multi-language software development cross-language links and accompanying tools: a survey of professional software developers", Journal of Software Engineering Research and Development, vol. 5, no. 1, pp. 1, Apr 2017
-https://jserd.springeropen.com/articles/10.1186/s40411-017-0035-z
-
-
-Andrew J. Ko, B. A. Myers and H. H. Aung, "Six learning barriers in end-user programming systems", 2004 IEEE Symposium on Visual Languages and Human-Centric Computing, pp. 199-206, Sep. 2004.
-https://ieeexplore.ieee.org/document/1372321
-
-N. Shrestha, T. Barik and C. Parnin, "It’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge", 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), pp. 177-185, Oct. 2018.
-https://ieeexplore.ieee.org/document/8506508
-
-N. Shrestha and C. Parnin,  “Instrument Designs for Validating Cross-Language Behavioral Differences" 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), Memphis, TN, USA, 2019, pp. 205-209, doi: 10.1109/VLHCC.2019.8818911.
-https://ieeexplore.ieee.org/document/8818911
+** P. Mayer, M. Kirsch and M. A. Le, "On multi-language software development cross-language links and accompanying tools: a survey of professional software developers", Journal of Software Engineering Research and Development, vol. 5, no. 1, pp. 1, Apr 2017
+https://jserd.springeropen.com/articles/10.1186/s40411-017-0035-z**
 
 
-56) S. Nguyen, H. Phan, T. Le and T. N. Nguyen, "Suggesting Natural Method Names to Check Name Consistencies," 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE), Seoul, Korea (South), 2020, pp. 1372-1384.
-https://ieeexplore.ieee.org/document/9284075
+** Andrew J. Ko, B. A. Myers and H. H. Aung, "Six learning barriers in end-user programming systems", 2004 IEEE Symposium on Visual Languages and Human-Centric Computing, pp. 199-206, Sep. 2004.
+https://ieeexplore.ieee.org/document/1372321**
+
+** N. Shrestha, T. Barik and C. Parnin, "It’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge", 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), pp. 177-185, Oct. 2018.
+https://ieeexplore.ieee.org/document/8506508**
+
+** N. Shrestha and C. Parnin,  “Instrument Designs for Validating Cross-Language Behavioral Differences" 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), Memphis, TN, USA, 2019, pp. 205-209, doi: 10.1109/VLHCC.2019.8818911.
+https://ieeexplore.ieee.org/document/8818911**
+
+
+** 56) S. Nguyen, H. Phan, T. Le and T. N. Nguyen, "Suggesting Natural Method Names to Check Name Consistencies," 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE), Seoul, Korea (South), 2020, pp. 1372-1384.
+https://ieeexplore.ieee.org/document/9284075**
 
 R. Maguire, P. Maguire and M. T. Keane, "Making sense of surprise: An investigation of the factors influencing surprise judgments", Journal of Experimental Psychology: Learning Memory and Cognition, vol. 37, no. 1, pp. 176, 2011 https://psycnet.apa.org/record/2011-00726-003
 
