@@ -8,14 +8,16 @@ O projeto é uma pesquisa na área de engenharia de software, sendo responsável
 
 ## Fichamento Bibliográfico
 
-Contexto de Implementação diz que inclui variáveis, campos e métodos usados no corpo do método.
-Contexto de Interface considera os tipos de parâmetros e o tipo de retorno do método.
-Contexto de Classe Envolvente analisa o nome da classe à qual o método pertence​
+* Contexto de Implementação diz que inclui variáveis, campos e métodos usados no corpo do método.
+* Contexto de Interface considera os tipos de parâmetros e o tipo de retorno do método.
+* Contexto de Classe Envolvente analisa o nome da classe à qual o método pertence​
 
 
 ## Fichamento de Citações
 
-”Common tokens shared between a method name and the contexts. For a method, we first computed the percentage of the tokens of the method name that also appear in its contexts.”
-“We also aim to explore the pervasiveness ofthe sharing tokens between method names and the contexts. Specifically, we calculated the percentages of the methods whose names share certain proportions oftokens with the corresponding contexts.”
-“First, to suggest a good name for a method, relying on the naturalness of the program entities in the contexts yields better results than using the AST or PDG structures. Second, method names are quite unique, however, the tokens composing them are repeated frequently. Thus, MNIRE exploits the regularity of the tokens in program entities' names for method name suggestion. Finally, our generative approach is more effective in producing new names than IR-based search approach in a corpus.”
+* ”Common tokens shared between a method name and the contexts. For a method, we first computed the percentage of the tokens of the method name that also appear in its contexts.”
+
+* “We also aim to explore the pervasiveness ofthe sharing tokens between method names and the contexts. Specifically, we calculated the percentages of the methods whose names share certain proportions oftokens with the corresponding contexts.”
+
+* “First, to suggest a good name for a method, relying on the naturalness of the program entities in the contexts yields better results than using the AST or PDG structures. Second, method names are quite unique, however, the tokens composing them are repeated frequently. Thus, MNIRE exploits the regularity of the tokens in program entities' names for method name suggestion. Finally, our generative approach is more effective in producing new names than IR-based search approach in a corpus.”
 

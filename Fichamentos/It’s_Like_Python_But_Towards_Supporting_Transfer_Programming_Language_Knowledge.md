@@ -8,15 +8,19 @@ O projeto é uma pesquisa na área de engenharia de software, sendo responsável
 
 ## Fichamento Bibliográfico
 
-Wrap-up(Concluir) significa uma parte da metodologia a onde foca em concluir o que está sendo analisado.
-Highlighting(Brilho/Destaque) é quando algo de forma luminosa se destaca no meio para chamar sua atenção.
-Language(linguagem de programação ou outro idioma) é quando se cita o tipo de linguagem ou propriamente a língua que está sendo usada nessa briga.
+* Wrap-up(Concluir) significa uma parte da metodologia a onde foca em concluir o que está sendo analisado.
+
+* Highlighting(Brilho/Destaque) é quando algo de forma luminosa se destaca no meio para chamar sua atenção.
+
+* Language(linguagem de programação ou outro idioma) é quando se cita o tipo de linguagem ou propriamente a língua que está sendo usada nessa briga.
 
 
 
 ## Fichamento de Citações
 
-“Most participants also found ‘gotchas’ to be useful. P7 for example said that “Gotchas! were interesting to learn and to avoid errors while coding.””
-“I was rarely confused by the descriptions, and the colorized highlighting helped me keep track of my thoughts and reference what exactly it was I was reading about with a specific example”
-“sometimes too many new things were introduced at once” 
+* “Most participants also found ‘gotchas’ to be useful. P7 for example said that “Gotchas! were interesting to learn and to avoid errors while coding.””
+
+* “I was rarely confused by the descriptions, and the colorized highlighting helped me keep track of my thoughts and reference what exactly it was I was reading about with a specific example”
+
+* “sometimes too many new things were introduced at once” 
 

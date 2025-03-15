@@ -8,16 +8,22 @@ O projeto é uma pesquisa na área de engenharia de software, sendo responsável
 
 ## Fichamento Bibliográfico
 
-Correct(Correto) quando usado conhecimentos da linguagem passada para responder corretamente sobre a linguagem de migração.
-Incorrect(Incorreto) quando é feita uma suposição incorreta sobre a linguagem de migração utilizando os conhecimento da linguagem de origem
-Interference(Interferências) o que está causando problemas na transição de uma linguagem a outra.
-Facilitation(Facilitação) o que facilita a passagem de uma linguagem de programação para outra.
+* Correct(Correto) quando usado conhecimentos da linguagem passada para responder corretamente sobre a linguagem de migração.
+
+* Incorrect(Incorreto) quando é feita uma suposição incorreta sobre a linguagem de migração utilizando os conhecimento da linguagem de origem
+
+* Interference(Interferências) o que está causando problemas na transição de uma linguagem a outra.
+
+* Facilitation(Facilitação) o que facilita a passagem de uma linguagem de programação para outra.
 
 
 ## Fichamento de Citações
 
-“Just-in-time learning is a dominant strategy. To learn new languages, every programmer we interviewed used just-in-time learning, an opportunistic strategy focused on only learning features as needed”
-“Old habits die hard. Programmers had to constantly suppress old habits acquired from previous languages”
-“Learning a language is difficult when there is little to no mapping with previous languages”
-“Sometimes programmers wrestled with larger differences that required fundamental shifts in mindsets, or “mindshifts.””
+* “Just-in-time learning is a dominant strategy. To learn new languages, every programmer we interviewed used just-in-time learning, an opportunistic strategy focused on only learning features as needed”
+
+* “Old habits die hard. Programmers had to constantly suppress old habits acquired from previous languages”
+
+* “Learning a language is difficult when there is little to no mapping with previous languages”
+
+* “Sometimes programmers wrestled with larger differences that required fundamental shifts in mindsets, or “mindshifts.””
 

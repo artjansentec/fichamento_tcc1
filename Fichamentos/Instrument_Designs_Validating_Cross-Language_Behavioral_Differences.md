@@ -8,14 +8,19 @@ O projeto é uma pesquisa na área de engenharia de software, sendo responsável
 
 ## Fichamento Bibliográfico
 
-Multiple Choice(Múltiplas escolhas) significa que só terá múltiplas escolhas nas questões. 
-Simple Yes/No(Simples Sim e Não) significa que será um questionário com resposta binária, ou sim ou não.
-Surprise(Surpresa) significa que o questionário vai mostrar um comportamento que talvez o programador não saberia que aconteceria com aquela linguagem e quando é surpreendido significa que ele tem expectativas erradas sobre aquela tecnologia.
+* Multiple Choice(Múltiplas escolhas) significa que só terá múltiplas escolhas nas questões. 
+
+* Simple Yes/No(Simples Sim e Não) significa que será um questionário com resposta binária, ou sim ou não.
+
+* Surprise(Surpresa) significa que o questionário vai mostrar um comportamento que talvez o programador não saberia que aconteceria com aquela linguagem e quando é surpreendido significa que ele tem expectativas erradas sobre aquela tecnologia.
 
 
 ## Fichamento de Citações
 
-“This can be quite unexpected behavior for a Python programmer who is accustomed to rows with NA being gracefully handled. In both examples, the behavior of the expressions differ across languages, but perhaps some differences are more meaningful than others? While the topic of subsetting with [ is covered in Tidynomicon, the unexpected behavior when using logical indexing is not mentioned.The second expression seems a more worthy addition as it is much more surprising for a Python programmer: “what on earth is happening?”
-“In the open responses, P15 expressed “that R looks a bit goofy” and another observed “in R, it’s not specified that ‘A’ is column or not” (P19). We believe participants were confused because the Python code uses a bracket notation whereas R uses a function call.”
-“We examined the open responses for those who were surprised and found them saying “I would say the Python one surprised me more... Python is the language I use the least of the two” (P4) and “Pandas locators are magic and always surprise me when they work” (P5).”
-“We inspected the open responses for those who weren’t surprised despite a large difference in syntax. P5 explained that the “- notation is often seen for negation, so I guess this makes sense after seeing it” and P12 expressed that “it’s interesting how -A will be understood as removing A column in the df.”
+* “This can be quite unexpected behavior for a Python programmer who is accustomed to rows with NA being gracefully handled. In both examples, the behavior of the expressions differ across languages, but perhaps some differences are more meaningful than others? While the topic of subsetting with [ is covered in Tidynomicon, the unexpected behavior when using logical indexing is not mentioned.The second expression seems a more worthy addition as it is much more surprising for a Python programmer: “what on earth is happening?”
+
+* “In the open responses, P15 expressed “that R looks a bit goofy” and another observed “in R, it’s not specified that ‘A’ is column or not” (P19). We believe participants were confused because the Python code uses a bracket notation whereas R uses a function call.”
+
+* “We examined the open responses for those who were surprised and found them saying “I would say the Python one surprised me more... Python is the language I use the least of the two” (P4) and “Pandas locators are magic and always surprise me when they work” (P5).”
+
+* “We inspected the open responses for those who weren’t surprised despite a large difference in syntax. P5 explained that the “- notation is often seen for negation, so I guess this makes sense after seeing it” and P12 expressed that “it’s interesting how -A will be understood as removing A column in the df.”
