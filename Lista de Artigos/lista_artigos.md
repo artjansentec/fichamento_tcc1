@@ -61,4 +61,7 @@ https://ieeexplore.ieee.org/document/9793555
 
 20. Monalessa P. Barcellos, Vítor E. Silva Souza, Patrícia Dockhorn Costa, and Camila Zacché de Aguiar. 2024. Using Extension Projects to Improve Software Engineering Education and Software Quality: The Experience of the “Ricardo de Almeida Falbo” Software Engineering Practices Laboratory. In XXIII Brazilian Symposium on Software Quality (SBQS 2024), November 5–8, 2024, Salvador, Brazil. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3701625.3701680
 
+21. V. Bogachenkova, L. Nguyen, F. Ebert, A. Serebrenik and F. Castor, "Evaluating Atoms of Confusion in the Context of Code Reviews," 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME), Limassol, Cyprus, 2022, pp. 404-408, doi: 10.1109/ICSME55016.2022.00048. https://ieeexplore.ieee.org/document/9978262
+
+
 
